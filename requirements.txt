@@ -1,0 +1,14 @@
+tensorflow
+keras
+numpy
+matplotlib
+streamlit
+pandas
+jupyter
+ipykernel
+
+
+pip install -r requirements.txt
+
+
+streamlit run app.py
